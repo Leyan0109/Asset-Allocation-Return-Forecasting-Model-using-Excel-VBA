@@ -40,7 +40,7 @@ Tailored for use by risk managers like William, this tool assists in optimizing 
 
 ```
 capital-allocation-vba-model/
-1. code/                  # Exported .bas VBA module (optional for version control)
+1. code/                  # Project vba code
 2. report/                # Project report or documentation
 3. README.md              # Project overview and user guide
 ```
